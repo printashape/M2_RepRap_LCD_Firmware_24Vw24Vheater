@@ -59,7 +59,7 @@
 #endif
 
 // Define this to set a custom name for your generic Mendel,
-//#define CUSTOM_MENDEL_NAME "M2 MakerGear"
+// #define CUSTOM_MENDEL_NAME "This Mendel"
 
 // This defines the number of extruders
 #define EXTRUDERS 1
